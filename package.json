@@ -1,0 +1,17 @@
+{
+  "name": "aseprite-em-french",
+  "displayName": "Aseprite en français",
+  "description": "Traduction de l'interface de Asprite en français",
+  "version": "1.0.0",
+  "publisher": "Farvardin",
+  "license": "CC-BY-NC-SA-4.0",
+  "author": { "name": "Farvardin", "url": "http://" },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "fr", "path": "./fr.ini" }
+    ]
+  }
+}
