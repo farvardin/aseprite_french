@@ -2,10 +2,10 @@
   "name": "aseprite-em-french",
   "displayName": "Aseprite en français",
   "description": "Traduction de l'interface de Asprite en français",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Farvardin",
   "license": "CC-BY-NC-SA-4.0",
-  "author": { "name": "Farvardin", "url": "http://" },
+  "author": { "name": "Farvardin", "url": "https://github.com/farvardin/aseprite_french/" },
   "categories": [
     "Languages"
   ],
