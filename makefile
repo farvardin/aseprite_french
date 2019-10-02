@@ -9,3 +9,6 @@ doc:
 	txt2tags -t md  -o README.md readme.t2t
 	
 	
+compare:
+	meld *.ini
+	
